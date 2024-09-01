@@ -19,6 +19,7 @@ elseif game.PlaceId == 15968393246 then
 elseif game.PlaceId == 10260193230 or game.PlaceId == 11487720177 then
     print ("Meme Suck")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/Meme%20Sea"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/Adm.lua"))()
 elseif game.PlaceId == 13601434903 then
     print ("Sorcerer Battlegrounds")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/Sorcerer%20Battleground"))()
@@ -210,13 +211,13 @@ elseif game.PlaceId == 13226518892 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/King%20Of%20battleground"))()
 elseif game.PlaceId == 2753915549 then
     print ("Sea 1")
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/Protected_3439324927074823.lua.txt"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/Protected_2140111363374976.txt"))()
 elseif game.PlaceId == 4442272183 then
     print ("Sea 2")
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/Protected_3439324927074823.lua.txt"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/Protected_2140111363374976.txt"))()
 elseif game.PlaceId == 7449423635 then
     print ("Sea 3")
-  loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/Protected_3439324927074823.lua.txt"))()
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/Protected_2140111363374976.txt"))()
 elseif game.PlaceId == 8534845015  then
     print ("Sakura Stand")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/Sakura%20Stand"))()
@@ -359,6 +360,16 @@ elseif game.PlaceId == 11520107397 or game.PlaceId == 6403373529 or game.PlaceId
     print ("Anime Dimensions")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Omgshit/Scripts/main/Anime%20Dimensions"))()
 else
+end
+
+if game.Players.LocalPlayer.Name == "xxgamexx_gamebr" then
+game.Players.LocalPlayer:Kick("Foi Bom Vida Mais Scams N Podem Dura rs")
+end
+if game.Players.LocalPlayer.Name == "Ana_bloxfruit" then
+game.Players.LocalPlayer:Kick("Foi Bom Vida Mais Scams N Podem Dura rs")
+end
+if game.Players.LocalPlayer.Name == "RENATA13523" then
+game.Players.LocalPlayer:Kick("Foi Bom Vida Mais Scams N Podem Dura rs")
 end
 
 --anti afk kick
